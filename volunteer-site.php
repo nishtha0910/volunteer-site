@@ -11,4 +11,6 @@ Version: 75.0
 Author: Nishtha Chaudhari
 
 */
+defined('ABSPATH') or die('No direct access allowed');
+
 ?>
